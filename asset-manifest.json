@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/webdesigning/static/css/main.4b7226e6.chunk.css",
-    "main.js": "/webdesigning/static/js/main.55402d65.chunk.js",
-    "main.js.map": "/webdesigning/static/js/main.55402d65.chunk.js.map",
-    "runtime-main.js": "/webdesigning/static/js/runtime-main.70eb6de6.js",
-    "runtime-main.js.map": "/webdesigning/static/js/runtime-main.70eb6de6.js.map",
-    "static/js/2.f7d248b3.chunk.js": "/webdesigning/static/js/2.f7d248b3.chunk.js",
-    "static/js/2.f7d248b3.chunk.js.map": "/webdesigning/static/js/2.f7d248b3.chunk.js.map",
-    "index.html": "/webdesigning/index.html",
-    "static/css/main.4b7226e6.chunk.css.map": "/webdesigning/static/css/main.4b7226e6.chunk.css.map",
-    "static/js/2.f7d248b3.chunk.js.LICENSE.txt": "/webdesigning/static/js/2.f7d248b3.chunk.js.LICENSE.txt",
-    "static/media/nss-logo.af4fb1eb.png": "/webdesigning/static/media/nss-logo.af4fb1eb.png",
-    "static/media/pp.a60345a4.jfif": "/webdesigning/static/media/pp.a60345a4.jfif",
-    "static/media/presidentAward.969c6213.jpg": "/webdesigning/static/media/presidentAward.969c6213.jpg"
+    "main.css": "/webdesigning/tmp/nss-website/nss/build/static/css/main.4b7226e6.chunk.css",
+    "main.js": "/webdesigning/tmp/nss-website/nss/build/static/js/main.55402d65.chunk.js",
+    "main.js.map": "/webdesigning/tmp/nss-website/nss/build/static/js/main.55402d65.chunk.js.map",
+    "runtime-main.js": "/webdesigning/tmp/nss-website/nss/build/static/js/runtime-main.8863d214.js",
+    "runtime-main.js.map": "/webdesigning/tmp/nss-website/nss/build/static/js/runtime-main.8863d214.js.map",
+    "static/js/2.f7d248b3.chunk.js": "/webdesigning/tmp/nss-website/nss/build/static/js/2.f7d248b3.chunk.js",
+    "static/js/2.f7d248b3.chunk.js.map": "/webdesigning/tmp/nss-website/nss/build/static/js/2.f7d248b3.chunk.js.map",
+    "index.html": "/webdesigning/tmp/nss-website/nss/build/index.html",
+    "static/css/main.4b7226e6.chunk.css.map": "/webdesigning/tmp/nss-website/nss/build/static/css/main.4b7226e6.chunk.css.map",
+    "static/js/2.f7d248b3.chunk.js.LICENSE.txt": "/webdesigning/tmp/nss-website/nss/build/static/js/2.f7d248b3.chunk.js.LICENSE.txt",
+    "static/media/nss-logo.af4fb1eb.png": "/webdesigning/tmp/nss-website/nss/build/static/media/nss-logo.af4fb1eb.png",
+    "static/media/pp.a60345a4.jfif": "/webdesigning/tmp/nss-website/nss/build/static/media/pp.a60345a4.jfif",
+    "static/media/presidentAward.969c6213.jpg": "/webdesigning/tmp/nss-website/nss/build/static/media/presidentAward.969c6213.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70eb6de6.js",
+    "static/js/runtime-main.8863d214.js",
     "static/js/2.f7d248b3.chunk.js",
     "static/css/main.4b7226e6.chunk.css",
     "static/js/main.55402d65.chunk.js"
